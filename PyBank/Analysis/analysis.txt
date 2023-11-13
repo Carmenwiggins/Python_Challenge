@@ -1,0 +1,5 @@
+Total Months: 86
+Total Profit/Losses: $22564198
+Average Change: $4500.458823529411
+Greatest Increase in Profit: 78 ($1862002.00)
+Greatest Decrease in Profit: 48 ($-1825558.00)
